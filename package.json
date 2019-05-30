@@ -6,8 +6,7 @@
     "react-native-linear-gradient": "2.3.0",
     "react-native-orientation": "^3.1.0",
     "react-native-slider": "https://github.com/abbasfreestyle/react-native-slider.git",
-    "react-native-vector-icons": "^4.4.2",
-    "react-native-video": "^2.0.0"
+    "react-native-vector-icons": "^4.4.2"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
@@ -19,6 +18,12 @@
   },
   "description": "A customisable React Native video player for Android and IOS",
   "homepage": "https://github.com/abbasfreestyle/react-native-af-video-player#readme",
+  "peerDependencies": {
+    "prop-types": "*",
+    "react": "*",
+    "react-native": "*",
+    "react-native-video": "*"
+  },
   "keywords": [
     "react-component",
     "react-native",
