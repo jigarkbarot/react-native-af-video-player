@@ -22,7 +22,9 @@
     "prop-types": "*",
     "react": "*",
     "react-native": "*",
-    "react-native-video": "*"
+    "react-native-video": "*",
+    "react-native-linear-gradient": "*",
+    "react-native-vector-icons": "*"
   },
   "keywords": [
     "react-component",
